@@ -1,4 +1,5 @@
 nginx
+hello-world
 ollama/ollama
 ghcr.io/open-webui/open-webui:cuda
 zhayujie/chatgpt-on-wechat
