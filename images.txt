@@ -7,5 +7,7 @@ ghcr.io/open-webui/open-webui:main
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
+ghcr.io/binary-husky/gpt_academic_with_all_capacity:master
+ghcr.io/binary-husky/gpt_academic_nolocal:master
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
